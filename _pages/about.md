@@ -16,7 +16,7 @@ I am interested in Machine Learning theory, e.g., kernel methods and deep learni
 My research interest starts from investigating asymmetric kernels, the primal-dual relationship, and random features. 
 Currently, my research focuses on the following directions:
 - Machine learning theory: potentional function space for asymmetric kernels, from RKHS to RKBS.
-- b
+- Applications powered by learning theory: geometric data, graph neural network, transformers understanded by asymmetric kernels.
 
 Feel free to drop me an email to connect!
 
