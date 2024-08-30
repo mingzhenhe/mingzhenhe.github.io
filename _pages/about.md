@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-**Biography**
+**About Me**
 ------
-Hi! I am a Ph.D. student at Institute of Image Processing Pattern Recognition in Department of Automation, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by Prof. [Xiaolin Hunag](http://www.pami.sjtu.edu.cn/en/xiaolin). I obtained my bachelor degree in Automation, [South China University of Technology](https://www.scut.edu.cn/en/).
+Hi! I am a Ph.D. student at Institute of Image Processing Pattern Recognition in Department of Automation, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by Prof. [Xiaolin Hunag](http://www.pami.sjtu.edu.cn/en/xiaolin). Before, I obtained my bachelor degree in Automation, [South China University of Technology](https://www.scut.edu.cn/en/).
 
-
+**Research Interests**
 My research focused on kernel methods especially on asymmetric kernels.
 
 Feel free to drop me an email to connect!
