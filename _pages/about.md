@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 **About Me**
 ------
 Hi! I am a Ph.D. student at Institute of Image Processing Pattern Recognition in Department of Automation, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by Prof. [Xiaolin Hunag](http://www.pami.sjtu.edu.cn/en/xiaolin). Before, I obtained my bachelor degree in Automation, [South China University of Technology](https://www.scut.edu.cn/en/).
