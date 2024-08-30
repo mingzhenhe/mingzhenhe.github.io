@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-======
 
 **Biography**
 ------
@@ -18,4 +17,4 @@ My research focused on kernel methods especially on asymmetric kernels.
 Feel free to drop me an email to connect!
 
 **News**
-======
+------
