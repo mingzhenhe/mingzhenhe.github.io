@@ -15,7 +15,7 @@ Hi! I am a Ph.D. student at Institute of Image Processing Pattern Recognition in
 I am interested in Machine Learning theory, e.g., kernel methods and deep learning theory.
 My research interest starts from investigating asymmetric kernels, the primal-dual relationship, and random features. 
 Currently, my research focuses on the following directions:
-- a
+- Machine learning theory: potentional function space for asymmetric kernels, from RKHS to RKBS.
 - b
 
 Feel free to drop me an email to connect!
