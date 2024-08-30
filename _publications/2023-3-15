@@ -1,0 +1,11 @@
+---
+title: "Learning with Asymmetric Kernels: Least Squares and Feature Interpretation"
+collection: publications
+category: accept
+excerpt: 'This paper addresses the asymmetric kernel-based learning in the framework of the least squares support vector machine, resulting in the first classification method that can utilize asymmetric kernels directly.'
+date: 2023-03-15
+venue: 'TPAMI'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10070836/authors'
+---
+
+[Download paper here](https://ieeexplore.ieee.org/abstract/document/10070836/authors)
