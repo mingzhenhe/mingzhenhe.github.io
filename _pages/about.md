@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Mingzhen He’s Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Welcome to Mingzhen He’s Homepage
 ======
 
 **Biography**
