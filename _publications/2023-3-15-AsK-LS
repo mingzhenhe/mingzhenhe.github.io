@@ -2,6 +2,7 @@
 title: "Learning with Asymmetric Kernels: Least Squares and Feature Interpretation"
 collection: publications
 category: accept
+author: <b>Mingzhen He</b>, Fan He, Lei Shi, Xiaolin Huang, Johan A. K. Suykens
 excerpt: 'This paper addresses the asymmetric kernel-based learning in the framework of the least squares support vector machine, resulting in the first classification method that can utilize asymmetric kernels directly.'
 date: 2023-03-15
 venue: 'TPAMI'
