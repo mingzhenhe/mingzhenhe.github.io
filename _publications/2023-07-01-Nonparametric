@@ -1,0 +1,11 @@
+---
+title: "Learning non-parametric kernels via matrix decomposition for logistic regression"
+collection: publications
+category: accept
+excerpt: 'This work presents several low rank decompostion schemes to adjust the kernel Gram matrices, which improves the flexibility of kernels without using conplicated rank penalty.'
+date: 2023-07-01
+venue: 'Pattern Recognition Letters'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0167865523001459'
+---
+
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S0167865523001459)
