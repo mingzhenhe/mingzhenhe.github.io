@@ -2,6 +2,7 @@
 title: "Decentralized Kernel Ridge Regression Based on Data-Dependent Random Feature"
 collection: publications
 category: accept
+author: Ruikai Yang, Fan He, <b>Mingzhen He</b>, Jie Yang, Xiaolin Huang
 excerpt: 'This work proposes a new decentralized KRR algorithm that pursues consensus on decision functions, which allows great flexibility and well adapts data on nodes.'
 date: 2024-07-12
 venue: 'TNNLS'
