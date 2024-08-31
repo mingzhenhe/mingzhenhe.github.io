@@ -2,6 +2,7 @@
 title: "Learning non-parametric kernels via matrix decomposition for logistic regression"
 collection: publications
 category: accept
+author: Kaijie Wang, Fan He, <b>Mingzhen He</b>, Xiaolin Huang
 excerpt: 'This work presents several low rank decompostion schemes to adjust the kernel Gram matrices, which improves the flexibility of kernels without using conplicated rank penalty.'
 date: 2023-07-01
 venue: 'Pattern Recognition Letters'
