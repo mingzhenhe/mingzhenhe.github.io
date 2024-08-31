@@ -2,7 +2,7 @@
 title: "Random Fourier Features for Asymmetric Kernels"
 collection: publications
 category: preprint
-author: **Mingzhen He**, Fan He, Fanghui Liu, Xiaolin Huang 
+author: Mingzhen He, Fan He, Fanghui Liu, Xiaolin Huang 
 excerpt: 'This work presents a unified framework for kernel approximation via random Fourier features.'
 date: 2022-08-30
 venue: 'arxiv'
