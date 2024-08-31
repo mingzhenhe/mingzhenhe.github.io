@@ -1,6 +1,7 @@
 ---
 title: "Global Search and Analysis for the Nonconvex Two-Level ℓ₁ Penalty"
 collection: publications
+author: Fan He, <b>Mingzhen He</b>, Lei Shi, Xiaolin Huang
 category: accept
 excerpt: 'This work presents the nonconvex two-level l1 penalty based on tis piecewise linear property and apply it to machine learning tasks.'
 date: 2022-08-30
