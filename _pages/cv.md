@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D, Shanghai Jiao Tong University, 2025 (expected)
+* Ph.D., Shanghai Jiao Tong University, 2025 (expected)
 * B.S., South China University of Technology, 2020
 
 
