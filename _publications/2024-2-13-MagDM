@@ -2,6 +2,7 @@
 title: "Diffusion representation for asymmetric kernels via magnetic transform"
 collection: publications
 category: accept
+author: <b>Mingzhen He</b>, Fan He, Ruikai Yang, Xiaolin Huang
 excerpt: 'This method maps an asymmetric kernel to the complex-valued field, embedding the symmetric and
 skew-symmetric parts to module and phase respectively, which enables a new dimension reduction method for data endowed with an asymmetric similarity 
 such as directed graphs and trophic networks.'
