@@ -1,0 +1,12 @@
+---
+title: "Kernel PCA for Out-of-Distribution Detection"
+collection: publications
+category: accept
+author: Kun Fang, Qinghua Tao, Kexin Lv, <b>Mingzhen He</b>, Xiaolin Huang, Jie Yang
+excerpt: 'This paper provides a framework of KPCA for OoD detection.'
+date: 2024-09-26
+venue: 'NeurIPS'
+paperurl: 'https://arxiv.org/pdf/2402.02949'
+---
+
+[Download paper here](https://arxiv.org/pdf/2402.02949)
