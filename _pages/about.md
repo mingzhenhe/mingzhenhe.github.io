@@ -16,8 +16,8 @@ Feel free to drop me an email to connect!
 
 My research interest starts from investigating asymmetric kernels, the primal-dual relationship, and random features. 
 Currently, my research focuses on the following directions:
-- Machine learning theory: potential function space for asymmetric kernels, from RKHS to RKBS.
-- Applications powered by learning theory: Transformers understood by asymmetric kernels.
+- Machine learning theory: potential function space for asymmetric kernels.
+- Applications: Graph Neural Networks and Transformers understood by asymmetric kernels.
 
 **News**
 ------
