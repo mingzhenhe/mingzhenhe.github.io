@@ -21,6 +21,8 @@ Currently, my research focuses on the following directions:
 
 **News**
 ------
+* [2025-01] One paper was accepted by ICLR.
+
 * [2024-09] One paper was accepted by NeurIPS.
 
 * [2024-09] One paper was accepted by Machine Learning about random Fourier features for asymmetric kernels.
