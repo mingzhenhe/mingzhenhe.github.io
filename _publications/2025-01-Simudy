@@ -1,0 +1,12 @@
+---
+title: "Simulating Training Dynamics to Reconstruct Training Data from Deep Neural Networks"
+collection: publications
+author: Hanling Tian, Yuhang Liu, <b>Mingzhen He</b>, Zhengbao He, Zhehao Huang, Ruikai Yang, Xiaolin Huang
+category: accept
+excerpt: 'We propose Simulation of training Dynamics (SimuDy) to reconstruct training data from DNNs.'
+date: 2025-01-23
+venue: 'ICLR'
+paperurl: 'https://openreview.net/forum?id=ZJftXKy12x&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)'
+---
+
+Download paper [here](https://openreview.net/forum?id=ZJftXKy12x&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions))
