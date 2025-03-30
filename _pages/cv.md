@@ -35,5 +35,5 @@ Teaching
   
 Service and leadership
 ======
-* Conference reviewer: NeurIPS 2024, AISTATS2025
+* Conference reviewer: NeurIPS 2024, AISTATS 2025, ICML2025
 * Journal reviewer: IEEE TNNLS
