@@ -21,6 +21,8 @@ Currently, my research focuses on the following directions:
 
 **News**
 ------
+* [2025-05] One paper about efficient graph Transformers via the primal-dual relationship of asymmetric kernels was accepted by ICML.
+
 * [2025-01] One paper was accepted by ICLR.
 
 * [2024-09] One paper was accepted by NeurIPS.
@@ -29,7 +31,7 @@ Currently, my research focuses on the following directions:
 
 * [2024-07] One paper was accepted by IEEE Transactions on Neural Networks and Learning Systems.
   
-* [2023-09] One paper was accepted by NeurIPS about a dimension reduction method for asymmetric kernels.
+* [2023-09] One paper about a dimension reduction method for asymmetric kernels was accepted by NeurIPS.
   
 * [2023-07] One paper was accepted by Pattern Recognition Letters.
   
